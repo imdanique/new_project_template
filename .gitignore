@@ -1,4 +1,5 @@
-# Ignore folders...
-#data/
-#results/
-#docs/
+# Ignore everything in this directory
+#
+# Except this file
+#!.gitignore
+
