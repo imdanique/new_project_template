@@ -1,4 +1,4 @@
 # Ignore folders...
-data/
-results/
-docs/
+#data/
+#results/
+#docs/
